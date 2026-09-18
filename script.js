@@ -436,7 +436,7 @@ function initReveal(){
   targets.forEach(t => io.observe(t));
 }
 
-/* ============ Feature: AI book assistant via Netlify Function ============ */
+/* ============ Feature: AI book assistant via Cloudflare Worker ============ */
 const ASSISTANT_CATS = {
   kz: ["қазақ", "казак", "отандық", "ұлттық"],
   world: ["әлем", "шетел", "world", "заманауи", "переводной"],
@@ -563,7 +563,7 @@ function renderAssistantReply(data){
 }
 
 async function askAI(message){
-  const response = await fetch("/.netlify/functions/chat", {
+  const response = await fetch("https://ustazdan-kenes.ustazdan-kenes-netlify.workers.dev", {
     method: "POST",
     headers: {"Content-Type": "application/json"},
     body: JSON.stringify({

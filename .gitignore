@@ -5,5 +5,8 @@
 .env
 .env.local
 
+# Cloudflare / wrangler local state
+.wrangler
+
 # Dependencies / misc
 node_modules
