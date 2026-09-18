@@ -1,10 +1,11 @@
 {
-  "name": "ustazdan-kenes-netlify",
-  "version": "1.1.0",
+  "name": "n101schoolsite",
+  "version": "1.2.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "netlify dev"
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
   },
   "dependencies": {}
 }

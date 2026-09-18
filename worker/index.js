@@ -1,5 +1,5 @@
 /* ============================================================
-   AI Book Assistant — Cloudflare Worker (port of the Netlify
+   AI Book Assistant — Cloudflare Worker (port of the legacy Netlify
    function). Same pipeline:
      user message -> greeting/thanks shortcut
                   -> local catalog search (books from client)
