@@ -1,0 +1,9 @@
+# Local Netlify folder
+.netlify
+
+# Secrets — never commit API keys
+.env
+.env.local
+
+# Dependencies / misc
+node_modules

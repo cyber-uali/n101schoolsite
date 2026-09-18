@@ -1,0 +1,10 @@
+# Required — powers the assistant's conversational reply.
+# Get a key at https://platform.deepseek.com
+DEEPSEEK_API_KEY=sk-
+
+# Optional — raises Google Books' rate limit and quota.
+# Without it, Google Books still works, just at the shared/anonymous limit.
+# Get a key at https://console.cloud.google.com (enable "Books API").
+GOOGLE_BOOKS_API_KEY=
+
+# Open Library needs no key — openlibrary.org/search.json is public.
