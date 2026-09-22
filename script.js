@@ -177,63 +177,63 @@ const TEACHERS = [
     name: "Кырбасова Тұрсынай Айдарқызы",
     subject: "Информатика",
     quote: "Момбек Әбдәкімұлының «Сүлеймен қарақшы» — жақсылық пен жамандықтың, ар мен нәпсінің күресі туралы әсерлі оқиға.",
-    img: "https://lh3.googleusercontent.com/sitesv/AG8ngQXvRIKkiZ0jVNr6-zu1xaW-9_pz-A-LN7yImGtEGEp4ttOewgEvL20dp0GgMAI49MqDx4M207fuEaWyZFOR0t1hbT3XOZNxCErtPQlbd6k9pSe9CCz3LPp6KoLAYBVImvj2T2QNjF_TYn4xG3AwxZRAkTlHnn9Vgn4V27ut9n9bn4ht2c_Me4Yjdx-La6H0Ri6WGv5Kp0wWIdwAJg6-O8ftu_dmkF6A-2S16W_D=w300",
+    img: "img/teachers/01.jpg",
     link: "https://www.instagram.com/reel/DSIWh-rDIyq/"
   },
   {
     name: "Ерікұлы Нұрбек",
     subject: "География",
     quote: "Джеймс Клир — «Атом әдеттер». Күнделікті шағын қадамдар үлкен нәтижеге жеткізетінін дәлелдейтін керемет кітап.",
-    img: "https://lh3.googleusercontent.com/sitesv/AG8ngQVwVnskQy3ZjJHCnncVEkBE12-pNkH5g7mv-k-BswlZhyfjia4ECb0quIQAbWCPydaNESvuG1P8ulDgDIeopX6QiIqTte9Gj1wvPmZ_Yh8Uf2c0iH_09g3JIGwtKZTgTZA6GaVb9UqgCpLolaFo5AeMBpD1-LDS4zOHtyUI5cfQE038ju-4IrZ7wQgTEeFXHq1ZiuN8Ygy3JuL9mTqvbuhr6dx0eVDcFBtqtwuX-fs=w300",
+    img: "img/teachers/02.jpg",
     link: "https://www.instagram.com/reel/DRPRIA0DCM5/"
   },
   {
     name: "Шауенова Эльмира Сапаровна",
     subject: "Қазақ тілі мен әдебиеті",
     quote: "«Өзбекәлі мен Мәдени майдан» — ұлттық рухты көтеретін, мәдени сана қалыптастыратын маңызды еңбектер.",
-    img: "https://lh3.googleusercontent.com/sitesv/AG8ngQV0pYLzrkd0mBsRE7fbcZwCp0cYsMzck4tp-zwyxbNJA0OoXfa5m4dYCCNkNzleP5GnTVSOgCrnQIX5fP1Ann3qL37EefCwuZM-ERge5YUYQg8qyppl6LaHTZu_htdgXb5osG1OyMSvjbr6rn56sq4u6I1DVhhO7zPlDr3Wsd4yyJgAsCHXAPrz89kOHoCxO3-6OOcEYT9nS74lw-_g7m2-tB5qKR37_jgFka3gmEA=w300",
+    img: "img/teachers/03.jpg",
     link: "https://www.instagram.com/reel/DSKR3ZwDAAH/"
   },
   {
     name: "Кырбасова Тұрсынай Айдарқызы",
     subject: "Информатика",
     quote: "Жюль Верн «Әлемді сексен күнде шарлау» — шытырман оқиғамен қатар табандылық пен сенімнің шынайы құнын көрсетеді.",
-    img: "https://lh3.googleusercontent.com/sitesv/AG8ngQX1ZujMy7lVnP88BRpTqDZ7VKUWTq22kRXreNQ2fbx8oqcSBjENVEytg8WHYOZ6rqYJAh9DEYzM6DlzVCuk_mruLqW1Yn1ByDA1eLcG6TDSxmecBpq3tDnT7WxRaCoG-qkCY6RBsP0mpn4u8TMCE46K8QQsBDhlBL5SNBAWMhurWno7qquru5FBaR-TMy6WYi--R30KB9VaBF5Ngbxqz8LgzsbPLwi3D80lMdAUQ9I=w300",
+    img: "img/teachers/04.jpg",
     link: "https://www.instagram.com/reel/DPjJ4OyDMWm/"
   },
   {
     name: "Айтбағамбетов Бекімжан Есенұлы",
     subject: "Информатика",
     quote: "Джон Кехоу «Түйсігіңмен ойла»: «Сіздің санаңызда ұстайтын әрбір ойыңыз — болашағыңыздың дәні».",
-    img: "https://lh3.googleusercontent.com/sitesv/AG8ngQVs2ayieS79GuXI6wcgUjidemHI2us6ZAPNgJc2wWDs91BwEgK2ANsv1VqVFMADKY4QceqO_nkZX1QYHUlQRNwNreprdHqQ2KuHCY_L30CQ0QIYzMteI-BMiMMwp61w7FdQxP_4t5NyD6ZTC3IZjlESahaSV1czK-fpafAv7xCcRHxZvbzCLQ3Jukg-CCUT7YTta0QbV8TiX93s4kOJaRt3bRqxOeYPIUb2VnngCck=w300",
+    img: "img/teachers/05.jpg",
     link: "https://www.instagram.com/reel/DC51kSKCXNV/"
   },
   {
     name: "Кошбаев Жүсіп Алтынбекұлы",
     subject: "Тарих",
     quote: "Бұл кітап арқылы жастар тарихты біліп қана қоймай, жігер мен табандылықтың рөлін түсініп, рухани дамуға жол табады.",
-    img: "https://lh3.googleusercontent.com/sitesv/AG8ngQWb2L4WndYvAge9iZ05ZEl37RSynZOmONT7czh2bGnEuGMNH4laFjgGuEJFB98ZKAEfS1IaGYAbojSgdzn4BeJJtSw7qsCsKbERAoX6Edasm8iV04APe1Ai_vF5GyEUbX2YTTk4e5aVDlg-BV9kai8eD47f9PeDcVufbS0CHOGjb5r1BdtinJJBdsNy9nf9zQmj8K2uVCnb9qUnDmcS638qmeyoYRU6vqUHZxRY5qg=w300",
+    img: "img/teachers/06.jpg",
     link: "https://www.instagram.com/reel/DCoG-ttAx6E/"
   },
   {
     name: "Болатов Ерзат Жәнібекұлы",
     subject: "Математика",
     quote: "Дулат Исабеков «Қарғын» — адамның қоғам, отбасы, ата-ана алдындағы міндеттері туралы. Қазіргі жастарға өте керек кітап.",
-    img: "https://lh3.googleusercontent.com/sitesv/AG8ngQV6zTZdPDuxJLce9MbDBB2fT7vZgj2xI6XjS0O0Y1xVxlrEjcy1xylbLtvNJCnurCPexN5heW4vc2_w1zLca_Uw4hUhOQfPjD5z5ZP8x1hlb3vQdU0C2gAHTNtQPbItv_HCBwJ8dIg5d7t2H6OIuFD9uvnvW4hJkzpayLvG0GnHHt4w_82geBttR_DGANzk4oX8sNVuE4i6N_-0kAz1z_s5-VAiZ1j3dBuzQleLq9A=w300",
+    img: "img/teachers/07.jpg",
     link: "https://www.instagram.com/reel/DCT6YQDASXr/"
   },
   {
     name: "Боранбайқызы Назерке",
     subject: "Биология",
     quote: "Дэниел Гоулман «Эмоционалды интеллект» — өзіңізді зерттеп, ең үздік нұсқаңызды қалыптастыруға көмектеседі.",
-    img: "https://lh3.googleusercontent.com/sitesv/AG8ngQXqKCXQlgu_zWwY5NBHkJNlzXq5zmRjVwkxepCiBWtJ2uAgUljt1HIP7C27LgPCBc91t0zXL0FUFIENnhd5KVIZzfwSqDtobb_Xy_nJyviIWHM4sT1vmYKDt6nwavSEGUA2jK5cnXa9mQPaKyUS1BbdIBpuEUIpZycRa8KDDpYi7oKHqAtgN4YMcV5oDIKHMuwoPyWrdO1Ti_Y83QA8AxMF8O4fgqsTijLEoLbNMHs=w300",
+    img: "img/teachers/08.jpg",
     link: "https://www.instagram.com/reel/DGQiLXVonR-/"
   },
   {
     name: "Ерікұлы Нұрбек",
     subject: "География",
     quote: "Шерхан Мұртаза «Ай мен Айша» — «Дүниенің жаратылысында жазық жоқ. Дүниені бүлдіретін — өзіміз».",
-    img: "",
+    img: "img/teachers/09.jpg",
     link: "https://www.instagram.com/reel/DDOmWdPgE4d/"
   }
 ];
@@ -309,7 +309,7 @@ function renderTeachers(){
     return `
     <article class="teacher-card">
       <div class="teacher-top">
-        <div class="teacher-photo">${t.img ? `<img src="${t.img}" alt="${t.name}" loading="lazy">` : initials}</div>
+        <div class="teacher-photo">${t.img ? `<img src="${t.img}" alt="${escapeHtml(t.name)}" loading="lazy" onerror="this.parentElement.textContent='${escapeHtml(initials)}'">` : initials}</div>
         <div>
           <p class="teacher-name">${t.name}</p>
           <p class="teacher-subject">${t.subject}</p>
